@@ -8,3 +8,5 @@ elif(ip<0):
 
 else:
     print("Neither negative no positive")
+
+## time and space complexity O(1)
